@@ -6,6 +6,7 @@ https://github.com/kaishwarya24/Fs_github.git
 Get started by creating a new file or uploading an existing file. We recommend every repository include a README, LICENSE, and .gitignore.
 
 …or create a new repository on the command line
+`
 echo "# Fs_github" >> README.md
 git init
 git add README.md
@@ -17,3 +18,4 @@ git push -u origin main
 git remote add origin https://github.com/kaishwarya24/Fs_github.git
 git branch -M main
 git push -u origin main
+`
