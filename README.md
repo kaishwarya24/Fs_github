@@ -9,23 +9,23 @@ Get started by creating a new file or uploading an existing file. We recommend e
 `
 echo "# Fs_github" >> README.md
 
-git init
+`git init`
 
-git add README.md
+`git add README.md`
 
-git commit -m "first commit"
+`git commit -m "first commit"`
 
-git branch -M main
+`git branch -M main`
 
-git remote add origin https://github.com/kaishwarya24/Fs_github.git
+`git remote add origin https://github.com/kaishwarya24/Fs_github.git`
 
-git push -u origin main
+`git push -u origin main`
 
 …or push an existing repository from the command line
 
-git remote add origin https://github.com/kaishwarya24/Fs_github.git
+`git remote add origin https://github.com/kaishwarya24/Fs_github.git`
 
-git branch -M main
+`git branch -M main`
 
-git push -u origin main
+`git push -u origin main
 `
